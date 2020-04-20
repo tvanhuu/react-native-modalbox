@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxs15/react-native-modalbox.git"
+    "url": "git+https://github.com/tvanhuu/react-native-modalbox.git"
   },
   "keywords": [
     "react-component",
@@ -23,10 +23,6 @@
   ],
   "author": "Maxime Mezrahi",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/maxs15/react-native-modalbox/issues"
-  },
-  "homepage": "https://github.com/maxs15/react-native-modalbox#readme",
   "dependencies": {
     "prop-types": "^15.5.10"
   }
